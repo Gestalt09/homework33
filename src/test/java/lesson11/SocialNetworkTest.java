@@ -18,7 +18,7 @@ public class SocialNetworkTest {
 
         common.startPage("https://www.janisroze.lv/");
 
-        homePage.openLoginPage();
+        homePage.OpenLoginPage();
 
         try {
             Thread.sleep(3000);
